@@ -11,16 +11,16 @@ Welcome to my [personal portfolio website](https://luckeyduckey.github.io/)! Thi
     - **Retro 3D Interface**: An interactive retro-styled terminal interface inspired by [Ed Hinrichsen website](https://www.edwardh.io/). This section features a fully functional terminal on a 3D-rendered vintage computer screen.
 
 - **3D Rendering**:
-    - **WebGL2-Powered**: The retro side of the website uses WebGL2 for 3D rendering, written entirely from scratch.
+    - **WebGL2-Powered**: The retro side of the website uses WebGL2 for rendering, written entirely from scratch.
     - **Custom Shaders**: The rendering includes custom shader effects, shadow maps, and other advanced graphics techniques.
-    - **.OBJ and .MTL File Loader**: A custom loader for 3D models, allowing for dynamic content within the 3D environment.
+    - **.OBJ and .MTL File Loader**: A custom loader for 3D models, allowing for dynamic content.
     - **Handcrafted Models**: All 3D models used in the project were created by me.
 
 - **Interactive Terminal**:
     - Explore the retro interface by typing commands into the terminal. Navigate through files, discover information, and enjoy a nostalgic trip back to the early days of computing.
 
 - **Fully Static and Front-End Only**:
-    - The entire site is a static front-end project, hosted on GitHub Pages. No back-end or server-side code is used.
+    - The site is a static front-end project, hosted on GitHub Pages. No back-end or server-side code is used.
 
 ## 🚀 Getting Started
 To explore the project locally or contribute:
