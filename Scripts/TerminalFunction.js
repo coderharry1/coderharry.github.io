@@ -73,7 +73,7 @@ function KeyPressed(key)
 
         if (key.length === 1 && InputText.length + Directory.length + 3 < 55) // Add character
         {
-            InputText = InputText.slice(0, Blinker.Index) + key + InputText.slice(Blinker.Index, InputText.length);
+            InputText = InputText.slice(0, Blinker.Index) + key.toLowerCase() + InputText.slice(Blinker.Index, InputText.length);
             Blinker = {Index: Blinker.Index + 1, Time: Date.now() * 0.001}; // Update blinker pos and reset its time
             if (ScrollOffset < LinesCount - 30) {ScrollOffset = Math.max(0, LinesCount - 30);} // Reset the scroll if off screen
         }
@@ -272,7 +272,7 @@ function ExecuteCommand()
 
         case "help":
             if (Arguments.length) {OutputsText += "\nError: 'help' doesn't accept any arguments\n\n";}
-            else {OutputsText += "\nCommands yippe!\n\n";}
+            else {OutputsText += "\nPress 'tab' for auto complete and press 'esc' to exit\na program (.exe file)\n\nLS       Lists current directory contents\nCD       Change directory, '..' moves back, '/' to root\nSTART    Opens specified file in current directory\nCLEAR    Clears all previous terminal outputs\n\n";}
             break;
 
         case "":
