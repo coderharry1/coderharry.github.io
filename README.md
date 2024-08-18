@@ -1,5 +1,5 @@
 # Personal Website
-![alt text](https://img.shields.io/badge/Javascript_(ES6)-WebGL2-blue) ![alt text](https://img.shields.io/badge/HTML5-CSS3-blue)
+![alt text](https://img.shields.io/badge/Javascript_(ES6)-WebGL2-blue) ![alt text](https://img.shields.io/badge/HTML5-CSS3-green)
 
 Welcome to my [personal portfolio website](https://luckeyduckey.github.io/)! This project showcases my work as an aspiring software developer and features a unique blend of modern web design and retro-inspired 3D graphics. Below, you'll find details about the development process, key features, and how to explore the site.
 
