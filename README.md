@@ -12,7 +12,7 @@ Welcome to my [personal portfolio website](https://luckeyduckey.github.io/)! Thi
 
 - **3D Rendering**:
     - **WebGL2-Powered**: The retro side of the website uses WebGL2 for rendering, written entirely from scratch.
-    - **Custom Shaders**: The rendering includes custom shader effects, shadow maps, and other advanced graphics techniques.
+    - **Custom Shaders**: Includes custom shader effects, shadow maps, and other advanced graphics techniques.
     - **.OBJ and .MTL File Loader**: A custom loader for 3D models, allowing for dynamic content.
     - **Handcrafted Models**: All 3D models used in the project were created by me.
 
