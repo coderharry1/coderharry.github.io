@@ -47,4 +47,4 @@ cd luckeyduckey.github.io
 - Retro Interface: The retro terminal experience was inspired by [Edward Hwang's portfolio](https://www.edwardh.io/).
 
 ## 📬 Contact
-If you have any questions, feel free to reach out via [LinkedIn](https://www.google.com/) or [Email](mailto:charlieashtond@gmail.com).
+If you have any questions, feel free to reach out via [Email](mailto:charlieashtond@gmail.com).
