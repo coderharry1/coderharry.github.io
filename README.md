@@ -3,7 +3,7 @@
 
 Welcome to my [personal portfolio website](https://luckeyduckey.github.io/)! This project showcases my work as an aspiring software developer and features a unique blend of modern web design and retro-inspired 3D graphics. Below, you'll find details about the development process, key features, and how to explore the site.
 
-![alt text](https://github.com/LuckeyDuckey/Pygame_Lighting_Engine/blob/main/imgs/Dungeon.PNG)
+![alt text](https://github.com/LuckeyDuckey/luckeyduckey.github.io/blob/3210e3ea6967ea8fd43830022a8250f52bf9033f/Images/Banner.png)
 
 ## 🔥 Features
 - **Dual Interface Design**:
