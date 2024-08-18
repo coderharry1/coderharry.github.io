@@ -27,11 +27,11 @@ To explore the project locally or contribute:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/CharlieAshton/portfolio-website.git
+git clone https://github.com/LuckeyDuckey/luckeyduckey.github.io.git
 ```
 2. Navigate to the **project directory**:
 ```bash
-cd portfolio-website
+cd luckeyduckey.github.io
 ```
 3. **Open the index.html file** in your browser to explore the website locally.
 
